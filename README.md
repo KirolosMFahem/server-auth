@@ -3,7 +3,7 @@
 [![Pre-commit Status](https://github.com/OCA/server-auth/actions/workflows/pre-commit.yml/badge.svg?branch=19.0)](https://github.com/OCA/server-auth/actions/workflows/pre-commit.yml?query=branch%3A19.0)
 [![Build Status](https://github.com/OCA/server-auth/actions/workflows/test.yml/badge.svg?branch=19.0)](https://github.com/OCA/server-auth/actions/workflows/test.yml?query=branch%3A19.0)
 [![codecov](https://codecov.io/gh/OCA/server-auth/branch/19.0/graph/badge.svg)](https://codecov.io/gh/OCA/server-auth)
-[![Translation Status](https://translation.odoo-community.org/widgets/server-auth-18-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/server-auth-18-0/?utm_source=widget)
+[![Translation Status](https://translation.odoo-community.org/widgets/server-auth-19-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/server-auth-19-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
 
